@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Urion
+## 🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+Bienvenido a mi GitHub. Soy un desarrollador en formación apasionado por aprender. Actualmente estoy enfocado en:
 
-<!--
-**urion-sertor/urion-sertor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🤖 Bot de Discord Personal: Gestión automatizada de comunidades y moderación de hilos.
 
-Here are some ideas to get you started:
+#### ⚖️ Traducción de Suzerain: Proyecto de localización al español del videojuego de estrategia política Suzerain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📚 Formación: Aprendiendo los fundamentos de desarrollo de software en DAM.
+
+Poco a poco iré subiendo más proyectos y herramientas.
+
+### Lenguajes usados en mis proyectos publicados hasta ahora:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
