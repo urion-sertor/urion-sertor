@@ -1,16 +1,20 @@
-# 👋 Hola, soy Urion
-## 🚀 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
-Bienvenido a mi GitHub. Soy un desarrollador en formación apasionado por aprender. Actualmente estoy enfocado en:
+# 👋 Hi, I'm Urion
 
-#### 🤖 Bot de Discord Personal: Gestión automatizada de comunidades y moderación de hilos.
+## 🚀 Multi-platform Application Development (DAM) Student
+Welcome to my GitHub! I'm an aspiring developer with a passion for continuous learning. Currently, I'm focusing my energy on:
 
-#### ⚖️ Traducción de Suzerain: Proyecto de localización al español del videojuego de estrategia política Suzerain.
+#### 🤖 Personal Discord Bot
+Automated community management and thread moderation.
 
-#### 📚 Formación: Aprendiendo los fundamentos de desarrollo de software en DAM.
+#### ⚖️ Suzerain Translation
+A localization project bringing the political strategy game *Suzerain* to the Spanish-speaking community.
 
-Poco a poco iré subiendo más proyectos y herramientas.
+#### 📚 Education
+Mastering the fundamentals of software development through my DAM studies.
 
-### Lenguajes usados en mis proyectos publicados hasta ahora:
+I'll be consistently uploading more projects and tools as I grow.
+
+### Languages and technologies used in my public projects:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
