@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Urion
 
-## 🚀 Multi-platform Application Development (DAM) Student
+## 🚀 Cross-platform Application Development Student
 Welcome to my GitHub! I'm an aspiring developer with a passion for continuous learning. Currently, I'm focusing my energy on:
 
 #### 🤖 Personal Discord Bot
