@@ -22,9 +22,3 @@ I'll be consistently uploading more projects and tools as I grow.
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
-
-##### 🎧 I love music btw :)
-[![Now playing on Spotify](https://spotifystats.com)](https://spotifystats.com) <sub>via [spotifystats.com](https://spotifystats.com)</sub>
-
-
-
