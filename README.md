@@ -14,10 +14,6 @@ Mastering the fundamentals of software development through my DAM studies.
 
 I'll be consistently uploading more projects and tools as I grow.
 
-##### 🎧 I love music btw :)
-[![Now playing on Spotify](/badge/23d2b10f0dcd009e590f9b90d88529870972b294.svg)](/badge/23d2b10f0dcd009e590f9b90d88529870972b294/open)
-<sub>via [spotifystats.com](https://spotifystats.com/?ref=badge)</sub>
-
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,5 +22,9 @@ I'll be consistently uploading more projects and tools as I grow.
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+
+##### 🎧 I love music btw :)
+[![Now playing on Spotify](/badge/3e2ce39c87943684f66c7a379bd602846469236e.svg)](/badge/3e2ce39c87943684f66c7a379bd602846469236e/open)
+<sub>via [spotifystats.com](https://spotifystats.com/?ref=badge)</sub>
 
 
