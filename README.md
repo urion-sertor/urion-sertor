@@ -15,7 +15,7 @@ Mastering the fundamentals of software development through my DAM studies.
 I'll be consistently uploading more projects and tools as I grow.
 
 ##### 🎧 I love music btw :)
-[![Now playing on Spotify](https://spotifystats.com)](https://spotifystats.com) <sub>via [spotifystats.com](https://spotifystats.com/?ref=badge)</sub>
+[![Now playing on Spotify](https://spotify-top.com)](https://spotify-top.com) <sub>via [spotifystats.com](https://spotifystats.com)</sub>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
